@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C71B51A41F16D7CF000320B8"
-               BuildableName = "SmartCameraLBTA2.app"
+               BuildableName = "SkinDoc.app"
                BlueprintName = "SkinDoc"
                ReferencedContainer = "container:SkinDoc.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C71B51A41F16D7CF000320B8"
-            BuildableName = "SmartCameraLBTA2.app"
+            BuildableName = "SkinDoc.app"
             BlueprintName = "SkinDoc"
             ReferencedContainer = "container:SkinDoc.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C71B51A41F16D7CF000320B8"
-            BuildableName = "SmartCameraLBTA2.app"
+            BuildableName = "SkinDoc.app"
             BlueprintName = "SkinDoc"
             ReferencedContainer = "container:SkinDoc.xcodeproj">
          </BuildableReference>
